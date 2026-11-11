@@ -1,6 +1,13 @@
+# OS generated files
 .DS_Store
 Thumbs.db
-*.env
+
+# Environment variables and logs
+.env
 *.log
+
+# Dependencies
 node_modules/
-.vscode/settings.json
+
+# Editor settings
+.vscode/
